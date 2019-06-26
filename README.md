@@ -29,7 +29,8 @@ Attribute Information:
 9. Summary - brief summary of the review
 10. Text - text of the review
 <hr>
- KNN
+ 
+#####KNN
 1. Applied K-Nearest Neighbour on Different Featurization & Data Visualization. BOW(uni-gram), tfidf, Avg-Word2Vec and tf-idf-Word2Vec 
 2. By using both brute & kd-tree implementation of KNN 
 3. Evaluated the test data on various performance metrics like accuracy also plotted Confusion matrix 
